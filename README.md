@@ -36,7 +36,7 @@ ____________
 📌 Developed with the aim of improving the building process of PC gamming
 
 🚀 Technologies: 
-React - Redux - Material UI - NodeJS- Express - PostgreSQL - Auth0 - Cloudinary  
+React - Redux - Material UI - NodeJS- Express - PostgreSQL - Auth0 - Cloudinary - Node Mailer - Paypal API - Google Maps API 
 
 <img align="left" width= "350px" src='github6.png' />
 <img align="center" width= "350px" src='github7.png' />
