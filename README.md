@@ -83,7 +83,7 @@ Have a question or want to work together?
 
 **Email:** leonelfrobledo@gmail.com
 
-<a href="https://www.linkedin.com/in/leotano1/" target="blank">
+<a href="https://www.linkedin.com/in/leonel-robledo-574961241/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leonel-robledo-574961241/" height="30" width="40" /></a>
 
 
